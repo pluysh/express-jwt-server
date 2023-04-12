@@ -1,0 +1,13 @@
+{
+    "APP_NAME": "UNDEFINED",
+    "API_PORT": 3001,
+    "USERS_PATH": "/api/users/",
+    "JWT_SECRET": "undefined",
+    "SERVER_IP": "http://localhost:3000",
+    "DB_ROUTE": "mongodb://localhost",
+    "DB_MSGS": {
+        "open": "Server has connected to database.",
+        "error": "MongoDB ERROR: "
+    },
+    "DEV": true
+}
